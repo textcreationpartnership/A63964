@@ -1,0 +1,462 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An heroick poem upon the late expedition of His Majesty, to rescue England from popery, tyranny, and arbitrary government by John Tutchin, Gent.</title>
+            <author>Tutchin, John, 1661?-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63964</idno>
+            <idno type="STC">Wing T3377</idno>
+            <idno type="STC">ESTC R5932</idno>
+            <idno type="EEBO-CITATION">11964933</idno>
+            <idno type="OCLC">ocm 11964933</idno>
+            <idno type="VID">51669</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63964)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51669)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 520:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An heroick poem upon the late expedition of His Majesty, to rescue England from popery, tyranny, and arbitrary government by John Tutchin, Gent.</title>
+                  <author>Tutchin, John, 1661?-1707.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by R. Janeway,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in University of Pennsylvania Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51669:1"/>
+            <pb facs="tcp:51669:1"/>
+            <p>AN Heroick Poem UPON THE LATE EXPEDITION OF HIS MAJESTY, To Reſcue ENGLAND FROM POPERY, TYRANNY, and ARBITRARY GOVERNMENT.</p>
+            <p>By <hi>JOHN TUTCHIN,</hi> Gent.</p>
+            <p>
+               <hi>LONDON:</hi> Printed, and are to be ſold by <hi>R. Janeway,</hi> 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:51669:2"/>
+            <pb n="3" facs="tcp:51669:2"/>
+            <head>AN HEROICK POEM Upon the Late EXPEDITION, &amp;c.</head>
+            <lg>
+               <l>WHEN Heav'n a Godlike <hi>Hero</hi> does create,</l>
+               <l>By Nature Virtuous, and by Action Great,</l>
+               <l>Strait ſome Diviner Muſe is called forth,</l>
+               <l>In Verſe Immortal to declare his Worth.</l>
+               <l>Thus Antique Worthies in Deſtruction skill'd,</l>
+               <l>VVith their own Swords plough'd the <hi>Pharſalian</hi> Field;</l>
+               <l>Whilſt ſofter <hi>Lucan</hi> ſang in well-tun'd Lays,</l>
+               <l>The <hi>Victor</hi>'s Triumphs, and the <hi>Hero</hi>'s Praiſe.</l>
+               <l>Let old Renowned <hi>Bards</hi> of Honours tell,</l>
+               <l>How by their Swords the Mighty Thouſands fell:</l>
+               <l>The Subject of my Younger Muſe muſt be,</l>
+               <l>A Harmleſs War, and Bloodleſs Victory.</l>
+            </lg>
+            <lg>
+               <l>I ſing the gentle Man of War, to whom</l>
+               <l>Diſtreſſed Nations do with Tribute come.</l>
+               <l>The mighty <hi>Hercules,</hi> that muſt Suppreſs</l>
+               <l>The Tyrant <hi>Hydra</hi> of the Univerſe.</l>
+               <l>
+                  <pb n="4" facs="tcp:51669:3"/>
+In War ſo happy, ſo Divinely good,</l>
+               <l>
+                  <hi>The</hi> Man of War<hi>'s become the</hi> Man of God;</l>
+               <l>As Sacred Chronicles do oft declare,</l>
+               <l>
+                  <hi>The</hi> Man of God <hi>was ſtil'd the</hi> Man of War.</l>
+               <l>At home in Virtue, and in Fields Renown'd,</l>
+               <l>Yet Seas themſelves cannot his Juſtice bound.</l>
+               <l>Some Provinces were his Paternal care,</l>
+               <l>Bleſt with their <hi>Jove</hi> in Peace, and <hi>Mars</hi> in War;</l>
+               <l>Whilſt other Kingdoms more unbleſt than they,</l>
+               <l>To Savage Force and Rapine were a Prey.</l>
+               <l>Old <hi>England,</hi> that Auguſt and Beauteous Iſle,</l>
+               <l>Made great by wholſome Laws, and fruitful Soil;</l>
+               <l>Felt ſuch Tyrannick Force without Redreſs,</l>
+               <l>That turn'd her <hi>Eden</hi> to a Wilderneſs.</l>
+               <l>Curſt with a Government had changed ill,</l>
+               <l>The Peoples Freedom, for the Prince's Will;</l>
+               <l>Had chang'd their Chappels and their Sacred Gueſts,</l>
+               <l>For Wooden Gods and far more Wooden Prieſts:</l>
+               <l>In Courts of Juſtice did as Judges ſit,</l>
+               <l>Lawyers without Sence, and Stateſmen without Wit.</l>
+               <l>Who taught the Law the Subject to devour,</l>
+               <l>Gave it no Saving, but deſtroying Power.</l>
+               <l>A Tyrant Yoak th' enſlaved Subject bore,</l>
+               <l>Such as their Free forefathers never wore.</l>
+            </lg>
+            <lg>
+               <l>Hereat our Prince his Pious care expreſt,</l>
+               <l>Whilſt Gen'rous Indignation fill'd his Breaſt.</l>
+               <l>Religious Worthies hear the dread Alarm,</l>
+               <l>And in his Cauſe the Warlike <hi>Heroes</hi> arm:</l>
+               <l>
+                  <hi>Neptune</hi> gives Ships, and <hi>Mars</hi> does Troops create,</l>
+               <l>All Threat Deſtruction to the Tyrant State.</l>
+               <l>
+                  <pb n="5" facs="tcp:51669:3"/>
+Nature her ſelf does ſeemingly Eſpouſe,</l>
+               <l>So Brave a Gen'ral, and ſo Good a Cauſe;</l>
+               <l>Propitiouſly to their Aſſiſtance brings,</l>
+               <l>A Large Right Gale to fill their <hi>Canvas</hi> Wings.</l>
+               <l>Here all the Ancient Stories are made good,</l>
+               <l>Where Tears of weeping Friends augment the Flood.</l>
+               <l>One curſes Winds and Tides, that muſt Convey</l>
+               <l>Her <hi>Mars,</hi> her Husband, and her Guard away.</l>
+               <l>One <hi>Theſeus</hi> to his Briny Fortreſs flies,</l>
+               <l>Whilſt on the Shore his <hi>Ariadne</hi> lies:</l>
+               <l>Ere this, the <hi>Princeſs</hi> has the Story told,</l>
+               <l>Of <hi>Jaſon</hi>'s Warlike Enterprize of old,</l>
+               <l>Prays for his good Succeſs, her Loſs bewails;</l>
+               <l>With Tears ſhe fills her Eyes, with Sighs his Sails:</l>
+               <l>Mean while the <hi>Argonauts</hi> expand their wings,</l>
+               <l>Whilſt Roar of <hi>Cannon</hi> their departure ſings:</l>
+               <l>And then the Ocean's Mighty Force they try,</l>
+               <l>And Storms and Winds, a Potent Enemy.</l>
+               <l>Men-loving Dolphins now before 'em play,</l>
+               <l>From Threatning Storms no more ſecure than they.</l>
+               <l>A ſure Preſage of Boiſtrous Winds and Waves,</l>
+               <l>When the vex'd Deep in Mountains rowls and raves.</l>
+               <l>The Staggering Ships ſuſtain the Watry Stroke,</l>
+               <l>Inform'd within by many an Heart of <hi>Oak;</hi>
+               </l>
+               <l>Yet great <hi>Arion</hi> ſings unto their Praiſe,</l>
+               <l>Tunes his Sweet Lute, and as they Dance, he Plays.</l>
+               <l>A Mighty Tempeſt riſing from afar,</l>
+               <l>The Sea it ſelf becomes the Seat of War.</l>
+               <l>Why, O ye Winds! do you ſuch Roaring keep?</l>
+               <l>And why ſuch Surges rowl upon the Deep?</l>
+               <l>
+                  <pb n="6" facs="tcp:51669:4"/>
+You do a Great, a Royal Burden bear;</l>
+               <l>'Tis <hi>Caeſar,</hi> and our only Hope's your Care.</l>
+               <l>Are Storms the <hi>Omens</hi> of a Fatal Day?</l>
+               <l>Or are they Prologues to a Clearer Ray?</l>
+               <l>All muſt ſubmit to the Decrees of Heaven,</l>
+               <l>That ſhows the way, and has Commiſſion given.</l>
+               <l>Through Fields of Dangers Men to Kingdoms flye,</l>
+               <l>Toils are precedent ſtill to Victory.</l>
+            </lg>
+            <lg>
+               <l>Thus does ſome Hoſtile Muſe his <hi>Hero</hi> palnt,</l>
+               <l>Expos'd to Hardſhip, Penury, and Want;</l>
+               <l>Leads him through Deſert Paths, the Place where ſtand</l>
+               <l>No Fruitful Trees, but Barren Heaps of Sand;</l>
+               <l>Where Prickly <hi>Furz,</hi> and Loneſome Fern does grow,</l>
+               <l>And piercing Tempeſts keeps the Graſs ſtill low;</l>
+               <l>No Eye has ſeen, or Human Foot has trod;</l>
+               <l>All Wild and Deſart, ſince the Mighty Flood;</l>
+               <l>Where Frightful Thunders oft obſtruct the Day,</l>
+               <l>While Raging Winds drive the Black Clouds away;</l>
+               <l>Where Savage Beaſts their ſeveral Kinds devour,</l>
+               <l>The Small ones Tremble, as the Great ones Roar:</l>
+               <l>Does him ore ſteepy Hills and Mountains lead,</l>
+               <l>Makes Heav'n his Canopy, and Earth his Bed;</l>
+               <l>His Pillow ſome hard Clod, whilſt all around,</l>
+               <l>His Active Warriours ſlumber on the Ground:</l>
+               <l>Hunger and Death do ſtare him in the Face,</l>
+               <l>And are the equal Terror of the place:</l>
+               <l>Yet after all his Toils, he does him Crown,</l>
+               <l>With Laſting Honour, and a great Renown.</l>
+               <l>A Brighter Day preceding Storms ſucceed,</l>
+               <l>And Garlands are the <hi>Victor</hi>'s ſacred <hi>Meed.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:51669:4"/>
+               <l>Much happier they that live in Camps at Eaſe,</l>
+               <l>Free from the Dangers of the Faithleſs Seas;</l>
+               <l>Whilſt our Illuſtrious <hi>Hero</hi> through the Main,</l>
+               <l>Ploughs the Rough Waves with Danger, Toil and Pain.</l>
+               <l>The Giddy Fleet, drunk with the Briny Draught,</l>
+               <l>Hath other Methods, and new Councils taught;</l>
+               <l>'Tis deem'd enough through Seas thus far to come,</l>
+               <l>Are thoughtful now again of Reeling Home:</l>
+               <l>The <hi>Prince</hi> and <hi>Warriours</hi> both of Hope bereft,</l>
+               <l>Have nothing now, but Faith and Courage left:</l>
+               <l>Bravely reſolve, but 'tis in vain, they find,</l>
+               <l>T' oppoſe the Warring Seas, and Fighting Wind:</l>
+               <l>A Tyrant Troop of <hi>Legicides</hi> they ſought,</l>
+               <l>Such as Free <hi>Rome</hi> of old, Deſtroy'd and Fought:</l>
+               <l>Not Warring Elements, nor yet to prove,</l>
+               <l>The Bolts and Thunder of Almighty <hi>Jove.</hi>
+               </l>
+               <l>They cry to Heaven the <hi>Ocean</hi> to appeaſe,</l>
+               <l>And not commit them to Devouring Seas;</l>
+               <l>Heav'n hears their Pray'rs, and ſends 'm Gentle Gales</l>
+               <l>To ſink their Cares, and fill their well-trimm'd Sails:</l>
+               <l>Now Lucky <hi>Halcyons</hi> brood upon the Deep,</l>
+               <l>The Seas are ſilent, and the Wind's aſleep:</l>
+               <l>The wiſh'd for Shore's in view; and at Command,</l>
+               <l>The long Diſtreſſed <hi>Heroes</hi> Mount and Land.</l>
+            </lg>
+            <lg>
+               <l>Thus <hi>Moſes</hi> once through many Toils did bring</l>
+               <l>A Vaſſal people from a Tyrant King;</l>
+               <l>At his and God's Command the Raging Flood,</l>
+               <l>Parted its Waters, and a Bulwark ſtood,</l>
+               <l>Whilſt <hi>Iſrael</hi>'s Seed trod the Imperial way,</l>
+               <l>Where lately Fiſh and Sea-born Monſters lay:</l>
+               <l>
+                  <pb n="8" facs="tcp:51669:5"/>
+No ſooner had they toucht the other Shore,</l>
+               <l>But the great Billows meet again, and Roar;</l>
+               <l>The Tyrant <hi>Pharoah,</hi> that did lately Rave,</l>
+               <l>And rode on's Subjects necks, now rode a Wave,</l>
+               <l>Which ſoon ore-turn'd his Tyranny and Pride;</l>
+               <l>The ſlaves had Freedom, when the Tyrant dy'd:</l>
+               <l>VVhen lo! the Ranſom'd ſlaves oreſpread the Sand;</l>
+               <l>And at their <hi>Moſes,</hi> and their God's Command,</l>
+               <l>They join in Thankful Notes, and Praiſes ſing,</l>
+               <l>To their Deliverer, th' Eternal King.</l>
+            </lg>
+            <lg>
+               <l>Thus ſang our other <hi>Moſes,</hi> and his Hoſt,</l>
+               <l>VVho more God's Bleſſing, than their Conqueſt, boaſt.</l>
+               <l>Thus ſings my Muſe, the <hi>Man of War,</hi> that lands,</l>
+               <l>A Prey from Treacherous <hi>Seas,</hi> and Faithleſs <hi>Sands.</hi>
+               </l>
+               <l>Ah wretched <hi>Albion,</hi> how untun'd, unſtrung,</l>
+               <l>Have our lov'd <hi>Harps</hi> upon the <hi>Willows</hi> hung?</l>
+               <l>Our Charming Bards to <hi>Thames</hi> and <hi>Iſis</hi> told,</l>
+               <l>Their <hi>Streams</hi> did flow like <hi>Babylon</hi>'s of old:</l>
+               <l>No <hi>Poetry</hi> muſt paſs, but ſerv'd the Cauſe,</l>
+               <l>Or ſome <hi>Suſpending</hi> Ballad of the <hi>Laws.</hi>
+               </l>
+               <l>Thrice Happy <hi>Albion;</hi> we, the <hi>Man of War,</hi>
+               </l>
+               <l>His Godlike Virtues, and his VVorth declare.</l>
+               <l>Freedom (the much lov'd Theme) our Lines adorn,</l>
+               <l>Of which our Fathers ſang beneath the Morn.</l>
+            </lg>
+            <lg>
+               <l>He that has paſs'd the <hi>Seas</hi> Tumultuous Rage,</l>
+               <l>VVhat greater Dangers has he to Engage?</l>
+               <l>A Liſted Field of <hi>Arm'd</hi> and <hi>Martial</hi> Foes,</l>
+               <l>New formed Dangers, and new Terror ſhows;</l>
+               <l>VVho all in hopes of Foreign <hi>Aids,</hi> Combine</l>
+               <l>VVith Foreign Councils, and with Foreign Coin;</l>
+               <l>
+                  <pb n="9" facs="tcp:51669:5"/>
+VVho of their great Alliance boaſt, and tell,</l>
+               <l>Of <hi>Rome</hi>'s good VViſhes, and Decrees of Hell.</l>
+               <l>The Bloody VVretch, the <hi>Bog-begotten Teague,</hi>
+               </l>
+               <l>Is the weak Prop of the deep-laid Intrigue;</l>
+               <l>In ſolid Maſſacres and Murders read,</l>
+               <l>Through Treaſons deep, and ſecret Poiſons led:</l>
+               <l>Beſides, ſome Liſted Troops againſt the Laws,</l>
+               <l>The fitteſt Champions in ſon Damn'd a Cauſe.</l>
+               <l>But what can <hi>Teagues,</hi> and the <hi>Repealers</hi> do?</l>
+               <l>The Beſt are to their Nation's Int'reſt true,</l>
+               <l>The Peoples Freedom, and the Subjects Right;</l>
+               <l>And can't againſt themſelves and Countrey Fight.</l>
+            </lg>
+            <lg>
+               <l>Here Juſter Muſe expand thy weary wing,</l>
+               <l>The Men of Honour and their Praiſes ſing!</l>
+               <l>Great <hi>Beaumont,</hi> and the reſt, whoſe Names of late,</l>
+               <l>Have got a Praiſe above the Reach of Fate;</l>
+               <l>VVho nobly could Reſign, and ſo declar'd,</l>
+               <l>They had their Laws above their VVealth preferr'd:</l>
+               <l>VVhilſt to the reſt, they Great Examples ſtood,</l>
+               <l>VVho in the worſt of Times dar'd to be Good.</l>
+            </lg>
+            <lg>
+               <l>Our Nobles whilome Melancholly ſate,</l>
+               <l>Nor durſt they ſtop th' impetuous ſtream of State,</l>
+               <l>Tho the Foundation-Piles it overturn'd</l>
+               <l>VVhilſt the wrong'd Subject, like its waters mourn'd.</l>
+               <l>Their Native Rights they ſtill expoſed ſaw,</l>
+               <l>To Sovereign VVill, and Arbitrary Law.</l>
+               <l>Tho they could ſoon the Maſſy Fetters break,</l>
+               <l>It was not Prudence, nor yet Time to ſpeak.</l>
+            </lg>
+            <lg>
+               <l>Thus does ſome yielding Maid her ſelf betray,</l>
+               <l>And gives to ſome vile VVretch her Heart away;</l>
+               <l>
+                  <pb n="10" facs="tcp:51669:6"/>
+Who by Deluding Words, and falſer Charms,</l>
+               <l>Draws the miſtaken Damſel to his Arms;</l>
+               <l>Where ſoon ſhe finds, by a too late Surprize,</l>
+               <l>It was her Honour was his only Prize.</l>
+               <l>'Tis vain to ſtruggle, hoping Succour's near;</l>
+               <l>She ſooths and flatters the loath'd Raviſher,</l>
+               <l>When at the door ſhe hears her Father tread,</l>
+               <l>Who ſtrikes the bold and wanton Lecher dead.</l>
+            </lg>
+            <lg>
+               <l>Thus forc'd by Impious Might, the Nations lay,</l>
+               <l>Nor durſt they put the Tyrant-Bonds away;</l>
+               <l>Till mighty <hi>Naſſau</hi> had his Weapons took,</l>
+               <l>And the new-raiſed <hi>Babel-building</hi> ſhook:</l>
+               <l>When ſtrait a num'rous Crowd oreſpread the Sand,</l>
+               <l>To welcome their <hi>Deliverer</hi> on Land;</l>
+               <l>With joyful Shouts, the Stranger Army join;</l>
+               <l>Lord! how their <hi>Spears</hi> and <hi>Brittiſh Targets</hi> ſhine!</l>
+               <l>With ſuch rough Boys <hi>Old England</hi> us'd to go,</l>
+               <l>To Fight, and to Deſtroy th' Invading Foe.</l>
+               <l>Anger did then, as Joy now, fill each Breaſt;</l>
+               <l>Ne're was Invading Army ſo Careſt?</l>
+            </lg>
+            <lg>
+               <l>Brave <hi>Cornbury</hi> has more Honour got,</l>
+               <l>By a Surrender, than to've kill'd and fought;</l>
+               <l>And will more Glory in our <hi>Annals</hi> ſhare,</l>
+               <l>Than Bloody Saints in <hi>Roman Kalendar.</hi>
+               </l>
+               <l>Nor muſt our Noble <hi>Lovelace</hi> be forgot,</l>
+               <l>Who firſt oppos'd, and ſmelt the <hi>Ethnick</hi> Plot;</l>
+               <l>Who fearleſs of the Law-deſtroying Yoke,</l>
+               <l>Firſt ſtopp'd the Fury of the Threatning Stroke;</l>
+               <l>Welcome, Great Soul, from durance to Command,</l>
+               <l>And all the Bleſſings of the Joyful Land:</l>
+               <l>
+                  <pb n="11" facs="tcp:51669:6"/>
+May you in War, ſucceſsful Fortune meet,</l>
+               <l>And humble <hi>Teagues</hi> lye proſtrate at your Feet!</l>
+            </lg>
+            <lg>
+               <l>Nor be the reſt unprais'd, but write their Name,</l>
+               <l>On the Chief Pinacle of Tow'ring Fame;</l>
+               <l>Which fears not Eating Age, nor Fatal Shock,</l>
+               <l>But like our Iſle is built upon a Rock:</l>
+               <l>When after Ages ſhall our Stories read,</l>
+               <l>Then Fame ſhall tell what wondrous Works they did.</l>
+               <l>In equal Numbers then it ſhall be told,</l>
+               <l>How <hi>Macclesfield</hi> the Grave, the Wiſe, the Old,</l>
+               <l>Took War and Toils for an inglorious Eaſe,</l>
+               <l>To give the Kingdoms Liberty and Peace.</l>
+               <l>How Standing Troops did from their Leaders flye,</l>
+               <l>To ſave their Honour, or in Freedom dye:</l>
+               <l>How <hi>Rome</hi>'s own Sword did <hi>Rome</hi>'s own King ſubdue,</l>
+               <l>How e'en the Sea <hi>Tarpaulins</hi> proved True.</l>
+               <l>The Youths unborn, ſhall laſting Statues raiſe;</l>
+               <l>And late Harmonious Bards ſhall ſing their Praiſe.</l>
+            </lg>
+            <lg>
+               <l>Now let our Mighty <hi>Naſſau</hi> view the Land,</l>
+               <l>And ſubject Towns bending to his Command,</l>
+               <l>Conquer'd by Goodneſs, not o'recome by Might,</l>
+               <l>Nor dy'd by Native Blood in Martial Fight.</l>
+               <l>Indulgent Heav'n deſigned it ſhonld be,</l>
+               <l>An Eaſie, Cheap, and Bloodleſs Victory.</l>
+               <l>Tell it in <hi>Gath,</hi> and let the News be known,</l>
+               <l>In all the ſpacious Streets of <hi>Askalon:</hi>
+               </l>
+               <l>Let <hi>Sion</hi>'s Daughters in our Triumphs ſing,</l>
+               <l>And to the <hi>Choire</hi> Immortal <hi>Stanzaes</hi> bring.</l>
+               <l>Our Old Men did not the Rough <hi>Ponyard</hi> feel,</l>
+               <l>Nor fell our Young Men by the Fatal <hi>Steel:</hi>
+               </l>
+               <l>
+                  <pb n="12" facs="tcp:51669:7"/>
+Our Conqueſt not one Scene of Death affords;</l>
+               <l>Nor were our <hi>Plough-ſhares</hi> turned into <hi>Swords.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Now is <hi>Auguſtus</hi> to <hi>Auguſta</hi> come,</l>
+               <l>And Crouds of Joyful People ſhout him home:</l>
+               <l>The Joyful Sound fills Villages Remote,</l>
+               <l>And Neighb'ring <hi>Ecchoes</hi> lengthen ev'ry Note.</l>
+               <l>To the Great Standard all Mankind reſort,</l>
+               <l>And make a Crowded, and a Splendid Court.</l>
+               <l>No grand Impiety does here bear ſway,</l>
+               <l>Nor Luſt and airy Pleaſure crown the Day.</l>
+               <l>Reſt here, Great <hi>Prince,</hi> in Honour and Renown,</l>
+               <l>Till willing people ſhall your Temples Crown,</l>
+               <l>VVith laſting Garlands, and yield to your Hand,</l>
+               <l>The Great and Awful Scepter of the Land.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:51669:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
